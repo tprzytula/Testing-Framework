@@ -1,0 +1,11 @@
+{
+  "name": "testing-framework",
+  "version": "1.0.0",
+  "description": "My own testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/math.spec.js"
+  },
+  "author": "Tomasz Przytuła",
+  "license": "MIT"
+}
